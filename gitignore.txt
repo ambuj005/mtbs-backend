@@ -1,0 +1,9 @@
+﻿.vs/
+bin/
+obj/
+.vscode/
+appsettings.json
+appsettings.development.json
+node_modules/
+environments/  
+/frontend/dist

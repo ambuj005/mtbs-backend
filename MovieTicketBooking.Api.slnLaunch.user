@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MovieTicketBooking.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\TicketMailFunc\\TicketMailFunc.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
